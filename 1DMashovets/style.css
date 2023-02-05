@@ -1,0 +1,97 @@
+*{
+    background-color: rgb(255, 229, 218);
+}
+
+.glowny_naglowek{
+    font-size: 60px;
+    color: rgb(255, 153, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(255, 229, 184);
+    text-align: center;
+    padding: 10px;
+    border: 5px solid rgb(189, 123, 0);
+    border-radius: 20px;
+    margin: 30px;
+    
+}
+
+.odsylacze{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border-top: 3px solid rgb(212, 130, 137);
+    border-bottom: 3px solid rgb(212, 130, 137);
+}
+
+.link{
+    text-decoration: none;
+    color: brown;
+    background-color: rgb(255, 167, 116);
+    padding: 10px;
+    border: 2px solid rgb(90, 4, 1);
+    border-radius: 5px;
+}
+
+.naglowek{
+    font-size: 30px;
+    color: rgb(105, 0, 24);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 215, 226);
+    text-align: center;
+    padding: 10px;
+    border: 2px solid rgb(39, 0, 23);
+    border-radius: 20px;
+    float: none;
+    margin: 20px;
+}
+
+h2{
+    margin: 50px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;    
+    padding: 20px;
+    background-color: rgb(255, 167, 145);
+    border: 5px solid rgb(114, 3, 36);
+    border-radius: 10px;
+    margin: 10px;
+}
+
+img{
+    display: flex;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+}
+
+.artykul{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    padding: 10px;
+    margin: 40px;
+    text-align: center;
+}
+
+.zdjecie{
+    height: 200px;
+}
+.glowny_artykul{
+    padding: 20px;
+    border: 2px dashed red;
+    text-align: center;
+    color: rgb(82, 0, 20);
+}
+
+.stopa{
+    background-color: rgb(255, 253, 133);
+    border: 2px solid rgb(250, 140, 38);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(70, 20, 11);
+    margin: 40px;
+}
