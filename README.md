@@ -1,1 +1,1 @@
-# Projekt-Sigma
+# repozytorium-testowe
